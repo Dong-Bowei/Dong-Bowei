@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dong-Bowei
-- 👀 I’m interested in econometrics and macroeconomics
-- 🌱 I’m currently learning economics
+- 👀 I’m interested in Urban Economics and Environmental Economics
 - 📫 How to reach me boweidon@ou.edu
 
 <!---
